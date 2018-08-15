@@ -3,7 +3,7 @@
 An app that gives the Ibani translation of selected English words and phrases.
 
 Author: Kuthumi Pepple
-________________________________________________________________
+==============================================
 
 
 ### Requirements:
